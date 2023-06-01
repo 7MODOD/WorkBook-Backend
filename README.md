@@ -22,7 +22,7 @@ one address, personal photo and a phone number.
 
 **Features**
 
-   2.1. Workers: 
+   1. Workers: 
    
       ▪ The worker can update its information
       ▪ Add new activity (done work) to the list
@@ -31,7 +31,7 @@ one address, personal photo and a phone number.
       client that is request has been accepted. It is good if the worker can search 
       about specific request -see the Customer functional requirements-.
  
-   2.2. Customers:
+   2. Customers:
    
       ▪ The Customer can update its information
       ▪ Rate a worker
