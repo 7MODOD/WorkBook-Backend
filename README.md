@@ -15,7 +15,7 @@ Customers (Has 0-5 values)
 We keep track about their names (Email, first name and last name), birthdate, 
 one address, personal photo and a phone number. 
 Features
-1. Workers: 
+2.1. Workers: 
 ▪ The worker can update its information
 ▪ Add new activity (done work) to the list
 ▪ Set its current status (Busy, Closed, …)
@@ -23,7 +23,7 @@ Features
 client that is request has been accepted. It is good if the worker can search 
 about specific request -see the Customer functional requirements-.
  
-2. Customers:
+2.2. Customers:
 ▪ The Customer can update its information
 ▪ Rate a worker
 ▪ See the workers who registered in this site, or search about specific one 
