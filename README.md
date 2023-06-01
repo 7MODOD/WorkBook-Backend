@@ -19,12 +19,12 @@ Features
 
    2.1. Workers: 
    
-▪ The worker can update its information
-▪ Add new activity (done work) to the list
-▪ Set its current status (Busy, Closed, …)
-▪ Receive orders from the Customers, accept what he/she want and tell the 
-client that is request has been accepted. It is good if the worker can search 
-about specific request -see the Customer functional requirements-.
+      ▪ The worker can update its information
+      ▪ Add new activity (done work) to the list
+      ▪ Set its current status (Busy, Closed, …)
+      ▪ Receive orders from the Customers, accept what he/she want and tell the 
+      client that is request has been accepted. It is good if the worker can search 
+      about specific request -see the Customer functional requirements-.
  
    2.2. Customers:
    
