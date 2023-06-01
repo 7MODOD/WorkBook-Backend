@@ -1,0 +1,51 @@
+# Visual Studio 2022
+.vs/
+/bin/
+/obj/
+/Debug/
+/Release/
+/*.suo
+/*.user
+/*.bak
+/*.cache
+/*.log
+/*.vspscc
+/*.vssscc
+/*.dll
+/*.exe
+/*.pdb
+/*.opendb
+/*.VC.db
+/*.sdf
+/*.bak
+/*.psess
+/*.vsp
+/*.vspx
+/*.scc
+
+# NuGet packages
+/packages/
+
+# .NET Core
+/.dotnet/
+/project.lock.json
+/MSBuildCrash.txt
+
+# Visual Studio Code
+.vscode/
+
+# Resharper cache directory
+/_ReSharper.*/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.bak
+*.psess
+*.vsp
+*.vspx
